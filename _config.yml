@@ -1,29 +1,41 @@
-name: parkerrose
-favicon: null
-layout_spectrum: 0.75626
-typography_spectrum: 0.25145
 title: Parker Rose - Furniture and Decore
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.02362213
+  brandStrength: 0.8100358
+  lightness: 0.2874244
+  brandColors:
+    - '#C6BDAB'
+    - '#544A41'
+    - '#9A4A65'
+    - '#C77F9A'
+    - '#777F88'
+  rhythmicContrast: 0.8620071
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: parkerrose
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.3498150515370071
-  lightness: 0.2874243897385895
-  saturation: 0.023622130509465933
-  rhythmicContrast: 0.6994664454832673
-purpose: []
+typography_spectrum: 0.25145
+layout_spectrum: 0.75626
