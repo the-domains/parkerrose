@@ -1,0 +1,28 @@
+name: parkerrose
+favicon: null
+layout_spectrum: 0.2412119717337191
+typography_spectrum: 0.8987854190636426
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3498150515370071
+  lightness: 0.2874243897385895
+  saturation: 0.023622130509465933
+  rhythmicContrast: 0.6994664454832673
+purpose: []
